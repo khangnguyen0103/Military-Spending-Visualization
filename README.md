@@ -37,7 +37,7 @@ The goal is to make military spending patterns accessible and explorable through
 
 ## Requirements
 
-This project is written in **R** and rendered as an R Markdown (`.Rmd`) document.
+This project is written in **R** and rendered as an R Markdown (`.Rmd`) document.(download R Studio for a better visualization
 
 ### R Packages
 
